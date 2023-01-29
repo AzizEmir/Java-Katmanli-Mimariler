@@ -4,4 +4,4 @@
 
 - Çoklu loglama yapısı kullanılmıştır.
 - Kurs ismi ve Eğitmen ismi tekrar edilmemesi için ArrayListler kullanılmıştır
-- Kurs fiyatının 0'dan küçük olmaması için KursManager class'ında add method'u içerisinde if bloğu ile engellenmişti.
+- Kurs fiyatının 0'dan küçük olmaması için KursManager class'ında add method'u içerisinde if bloğu ile engellenmiştir.
